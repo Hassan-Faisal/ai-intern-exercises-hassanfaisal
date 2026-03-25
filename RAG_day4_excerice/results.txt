@@ -1,0 +1,12 @@
+Query: What are embeddings?
+Retrieved Document:
+Embeddings convert text into dense vectors that capture semantic meaning.
+
+Query: How are images generated with AI?
+Retrieved Document:
+Diffusion models generate images by gradually removing noise from random patterns.
+
+Query: What is the best programming language for data science?
+Retrieved Document:
+Python is a high-level programming language widely used for machine learning and data analysis.
+

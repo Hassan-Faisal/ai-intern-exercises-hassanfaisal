@@ -1,0 +1,7 @@
+Transformers use self-attention for sequence modeling in NLP tasks.
+Diffusion models generate images by gradually removing noise from random patterns.
+Embeddings convert text into dense vectors that capture semantic meaning.
+Python is a high-level programming language widely used for machine learning and data analysis.
+Basketball is a fast-paced team sport played with a ball and a hoop.
+Cooking involves preparing meals using ingredients, heat, and various techniques.
+The solar system consists of the sun and eight planets orbiting around it.
